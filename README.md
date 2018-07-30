@@ -9,3 +9,21 @@ A basic project for HTML, scss with gulp .
 4. `gulp serve` or `npm start`  
 
 ... and then the browser-sync should automatically run on your localhost now.
+
+# Folders Structure
+```
+root
+│   index.html    
+│    ...
+└───assets 
+    │
+    └───css             // static CSS files 
+    │
+    │
+    └───scss                // all SCSS files
+    │   common.scss
+    │   index.scss
+    │   variables.scss
+    │
+    └───styles          // SCSS -> CSS converted files
+```
