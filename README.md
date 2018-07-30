@@ -17,13 +17,13 @@ root
 │    ...
 └───assets 
     │
-    └───css             // static CSS files 
+    └───css            // static CSS files 
     │
     │
-    └───scss                // all SCSS files
+    └───scss           // all SCSS files
     │   common.scss
     │   index.scss
     │   variables.scss
     │
-    └───styles          // SCSS -> CSS converted files
+    └───styles         // SCSS -> CSS converted files
 ```
